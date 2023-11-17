@@ -1,3 +1,4 @@
 Título1
 Imatge
-
+Pàragraf 1
+Pàragraf 2
